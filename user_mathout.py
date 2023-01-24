@@ -49,8 +49,6 @@ def get_area_of_lot(length, width):
 # Literally: "if this module name == the name of the main module"
 if __name__ == "__main__":
 
-    # call your functions here (see instructions)
-    print("your code here")
 
     ### Testing the import math functions 
     print("Courtney Pigford", "1/21/23")
@@ -113,34 +111,24 @@ def get_sum_of_cost(price_of_pasta=1.99, price_of_sauce=2.49):
 
 print('Total cost:  ',get_sum_of_cost())
 
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-    
-    
-
-price_of_pasta = get_price_of_pasta
-
-
-
-
-
-
-
-
-
-
+(base) Courtney-MacBook-Pro:datafun-02-functions resetandwiped$ /usr/local/bin/python3 /Users/resetandwiped/Desktop/44608-80:81/datafun-02-functions/user_mathout.py
+Courtney Pigford 1/21/23
+number of pasta sauce:  5
+number of noodles: 6
+How many combinations 5 and 6 is 30
+round ounces of sauce to its nearest ounce
+2
+5
+10
+How packages of pasta you need
+18.5 is the number of packages of pasta you need
+How Many Pots
+You will need 1.0 size pot
+how many combinations of past dishes you can make
+1287
+math.perm(13, 8) = 51891840
+Cost to make a pasta dish
+1.99
+2.49
+Total cost:   4.955100000000001
+(base) Courtney-MacBook-Pro:datafun-02-functions resetandwiped$ 

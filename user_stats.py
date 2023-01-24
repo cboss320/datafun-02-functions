@@ -78,3 +78,45 @@ scores = [
 # y is dependent on x (e.g. temperature vs hour of day)
 x_times = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 y_temps = [2, 5, 8, 20, 21, 23, 24, 27, 30, 31, 31,32]
+
+
+import statistics
+
+# How long to cook pasta 
+print('Courtney Pigford 1/21/23:')
+
+print('How long cooking pasta')
+
+scores = [
+    8,
+    9,
+    10,
+    11,
+    12,
+    3,
+    4,
+    5,
+    13,
+    14,
+    15,
+    12, 
+    12, 
+    12, 
+    12, 
+
+]
+
+X = statistics.mean(scores)
+y = statistics.mode(scores)
+z = statistics.median(scores)
+a = (statistics.stdev(scores))
+b = (statistics.variance(scores))
+
+print('the average cooking time is: ', X)
+print('the most common time to cook pasta is: ', y)
+print('the best cooking time for all pasta is: ', z)
+print('the variance of cooking times is:  ', b)
+print('Standard Deviation of the cooking times is: ', a)
+
+
+

@@ -113,3 +113,92 @@ if __name__ == "__main__":
     Alfredo.display_welcome()
 
 
+(base) Courtney-MacBook-Pro:datafun-02-functions resetandwiped$ /usr/local/bin/python3 /Users/resetandwiped/Desktop/44608-80:81/datafun-02-functions/useroop.py
+
+Welcome, I'm a new PyBuddy.
+
+I'm Pesto.
+I'm a Noodles.Spaghetti with 4 legs.
+I weigh 7.00 kgs with 8.12 sauce.
+I've been alive for 0:00:00.001496.
+I know:
+  - Git
+  - GitHub
+  - Python
+  - Markdown
+  - VS Code
+
+
+You'll need curiousity, the ability to search the web, 
+and the tenacity and resourcefulness
+to solve all kinds of challenges.
+Let's get started! 
+
+        
+
+Welcome, I'm a new PyBuddy.
+
+I'm Alfredo.
+I'm a Noodles.Fettuccine with 4 legs.
+I weigh 10.44 kgs with 4.00 sauce.
+I've been alive for 0:00:00.001727.
+I know:
+  - Git
+  - GitHub
+  - Python
+  - Markdown
+  - VS Code
+
+
+You'll need curiousity, the ability to search the web, 
+and the tenacity and resourcefulness
+to solve all kinds of challenges.
+Let's get started! 
+
+        
+(base) Courtney-MacBook-Pro:datafun-02-functions resetandwiped$ /usr/local/bin/python3 /Users/resetandwiped/Desktop/44608-80:81/datafun-02-functions/useroop.py/usr/local/bin/python3 /Users/resetandwiped/Desktop/44608-80:81/datafun-02-functions/useroop.py/Library/Frameworks/Python.framework/Versions/3.11/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/resetandwiped/Desktop/44608-80:81/datafun-02-functions/useroop.py/usr/local/bin/python3': [Errno 20] Not a directory
+(base) Courtney-MacBook-Pro:datafun-02-functions resetandwiped$ /usr/local/bin/python3 /Users/resetandwiped/Desktop/44608-80:81/datafun-02-functions/useroop.py
+
+Welcome, I'm a new PyBuddy.
+
+I'm Pesto.
+I'm a Noodles.Spaghetti with 4 legs.
+I weigh 7.00 kgs with 8.12 sauce.
+I've been alive for 0:00:00.000834.
+I know:
+  - Git
+  - GitHub
+  - Python
+  - Markdown
+  - VS Code
+  - Statistics
+
+
+You'll need curiousity, the ability to search the web, 
+and the tenacity and resourcefulness
+to solve all kinds of challenges.
+Let's get started! 
+
+        
+
+Welcome, I'm a new PyBuddy.
+
+I'm Alfredo.
+I'm a Noodles.Fettuccine with 4 legs.
+I weigh 10.44 kgs with 4.00 sauce.
+I've been alive for 0:00:00.000940.
+I know:
+  - Git
+  - GitHub
+  - Python
+  - Markdown
+  - VS Code
+  - Statistics
+
+
+You'll need curiousity, the ability to search the web, 
+and the tenacity and resourcefulness
+to solve all kinds of challenges.
+Let's get started! 
+
+        
